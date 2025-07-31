@@ -114,7 +114,7 @@ Application behavior can be changed by configuring the following environment var
 - `NEXT_PUBLIC_OG_TEXT_ALIGNMENT = BOTTOM` keeps OG image text bottom aligned (default is top)
       
 💬 &nbsp;&nbsp;Contacts
--zhangandy4321@gmail.com If you have any questions on local deployment or how it was developed.
+-zhangandy4321@gmail.com If you have any questions on local deployment or how it was developed
 
 
 
