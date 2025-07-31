@@ -21,16 +21,6 @@
 <img src="/readme/og-image-share.png" alt="OG Image Preview" width=600 />
 
 
-💻&nbsp;&nbsp;Local development
--
-1. Clone code
-2. Run `pnpm i` to install dependencies
-3. If necessary, install [Vercel CLI](https://vercel.com/docs/cli#installing-vercel-cli) and authenticate by running `vercel login`
-4. Run `vercel link` to connect CLI to your project
-5. Run `vercel dev` to start dev server with Vercel-managed environment variables
-
-See FAQ for [limitations of local development](#can-i-work-locally-without-access-to-an-image-storage-provider)
-
 🎨&nbsp;&nbsp;Further customization
 -
 ### AI text generation
@@ -126,15 +116,6 @@ Application behavior can be changed by configuring the following environment var
 💬 &nbsp;&nbsp;I18N
 -
 
-Partial internationalization (for non-admin, user-facing text) provided for a handful of languages. Configure locale by setting environment variable `NEXT_PUBLIC_LOCALE`.
-
-### Supported Languages
-- `en-us`
-- `pt-br`
-- `pt-pt`
-- `id-id`
-- `zh-cn`
-- `bd-bn`
 
 
 
